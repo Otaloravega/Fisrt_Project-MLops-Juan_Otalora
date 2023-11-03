@@ -42,7 +42,13 @@ Se implementó un modelo de recomendación basado en filtro de usuario-ítem, lo
 
 ### Video de Presentación
 
-Se creó un video de presentación que muestra el funcionamiento de la API y brinda una breve explicación del modelo de recomendación utilizado.
+Se creó un video de presentación que muestra el funcionamiento de la API y Render, y brinda una breve explicación del modelo de recomendación utilizado:
+- https://www.youtube.com/watch?v=wVFX7P4oRVc
+
+### Link del repositorio (GitHub)
+
+Sitio donde esta todo alojado:
+- https://github.com/Otaloravega/Fisrt_Project-MLops-Juan_Otalora
 
 ## Cómo Usar la API
 
