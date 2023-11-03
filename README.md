@@ -54,6 +54,8 @@ Sitio donde esta todo alojado:
 
 La API se puede acceder a través de los siguientes endpoints:
 
+- Link general del deployment: https://first-project-mlops-juan-otalora.onrender.com/
+
 - TimeGenrePlay(genre: str): https://first-project-mlops-juan-otalora.onrender.com/TimeGenrePlay/{genre}
 
 - UserbyGenre(genre: str): https://first-project-mlops-juan-otalora.onrender.com/UserbyGenre/{genre}
