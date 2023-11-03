@@ -32,7 +32,7 @@ La API se desplegó en la nube utilizando Render. Esto permite que la API sea ac
 
 ### Análisis Exploratorio de Datos (EDA) - FALTA
 
-Se llevó a cabo un análisis exploratorio de datos para investigar las relaciones entre las variables del conjunto de datos, identificar outliers y patrones interesantes. El EDA se realizó manualmente para comprender mejor los datos disponibles.
+Se llevó a cabo un análisis exploratorio de datos para investigar las relaciones entre las variables. El EDA se realizó manualmente para comprender mejor los datos disponibles, como lo fue la clasificacion de 0 ,1 o 2 del analisis de sentimientos y los idiomas en los en los que estaban escritos los reviews.
 
 ### Modelo de Recomendación - OK
 
